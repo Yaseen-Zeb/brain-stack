@@ -71,12 +71,14 @@ Examples:
 
 ## Been
 Been is the past form used with have/has/had for completed or ongoing past time
-Use to talk about past experiences or past time connected to now.
+- Use to talk about past experiences or past time connected to now or another past time.
+- Also been is used for present perfect and past perfect sentences in case of adjective and for location.
+- Also been is used in passive voice with perfect tenses.
 Examples:
-- I have been to Paris three times.
-- She had been sick for a week.
-- The letter has been sent.
-"Been" connects a past experience/state to the present or another past time.
+- I have/had been to Paris three times. (Location - Present Perfect/Past Perfect)
+- She has/had been sick. (Adjective - Present Perfect/Past Perfect)
+- The letter has/had been sent. (Passive Voice - Present Perfect/Past Perfect)
+- I have/had been working since morning. (Perfect Continuous - ongoing - Present Perfect/Past Perfect)
 
 
 ## Being
