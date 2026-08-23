@@ -5,6 +5,7 @@
 
 1. **Long time sentences**
 2. **Be, Been, Being**
+3. **Conditional Sentences**
 
 
 
@@ -90,3 +91,45 @@ Examples:
 - They are being noisy.
 - The children are being rude.
 - He is being nice to me today.
+
+
+
+
+
+# Conditional Sentences
+There are 4 main types of conditional sentences in English.
+## 1. Zero Conditional — General Truth / Always True
+Used for scientific facts, general truths, habits.
+Examples:
+- If you heat water to 100°C, it boils. اگر آپ پانی گرم کرتے ہیں تو وہ ابلتا ہے۔
+- If I don't sleep, I feel tired. اگر میں نہیں سوتا، تو میں تھکا ہوا محسوس کرتا ہوں۔
+
+## 2. First Conditional — Real Possibility (Future)
+Used for real possibilities in the future.
+Examples:
+- If I go to the party, I will meet you. اگر میں پارٹی میں گیا تو آپ سے ملوں گا۔
+- If I study harder, I will pass the exam. اگر میں زیادہ محنت سے پڑھوں گا تو میں امتحان پاس کر لوں گا۔
+- If I come to Peshawar, I will meet you. اگر میں پشاور آیا تو آپ سے ملوں گا۔
+
+## 3. Second Conditional — Unreal / Imaginary Situation (Present / Future)
+Used for imaginary or unreal situations in the present or future.
+Examples:
+**Present Unreal**
+- If I went to the party, I would meet you. اگر میں پارٹی میں جاتا تو میں تم سے ملتا۔
+- If I studied harder, I would pass the exam. اگر میں زیادہ محنت سے پڑھتا تو میں امتحان پاس کرتا۔
+- If I lived in London, I would meet you. اگر میں لندن میں رہتا تو میں تم سے ملتا۔
+- If I were rich, I would buy a big house. اگر میں امیر ہوتا تو میں ایک بڑا گھر خریدتا۔
+
+**Future Unreal**
+- If I had a job next year, I would rent a house. اگر میرے پاس اگلے سال نوکری ہوتی تو میں گھر کرائے پر لیتا
+- If I studied harder for the next exam, I would pass the exam. اگر میں اگلے امتحان کے لیے زیادہ محنت سے پڑھتا تو میں امتحان پاس کرتا۔
+- If I lived in London next year, I would meet you. اگر میں اگلے سال لندن میں رہتا تو میں تم سے ملتا۔
+- If I were rich next year, I would buy a big house. اگر میں اگلے سال امیر ہوتا تو میں ایک بڑا گھر خریدتا۔
+
+## 4. Third Conditional — Unreal Past Situation
+Used for imaginary or unreal situations in the past
+Examples:
+- If I had gone to the party, I would have met you. اگر میں پارٹی میں گیا ہوتا تو میں تم سے ملا ہوتا۔
+- If I had studied harder, I would have passed the exam. اگر میں زیادہ محنت سے پڑھا ہوتا تو میں امتحان پاس کر لیتا۔
+- If I had lived in London, I would have met you. اگر میں لندن میں رہتا تو میں تم سے ملا ہوتا۔
+- If I had been rich, I would have bought a big house. اگر میں امیر ہوتا تو میں ایک بڑا گھر خرید لیتا۔

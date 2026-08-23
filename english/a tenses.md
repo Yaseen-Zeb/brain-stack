@@ -31,6 +31,9 @@
 - I walked to school yesterday.  
 - She ate lunch.  
 - They played football.
+- We used to play football. / We would play football. (past habit)
+**Note:** *Used to* and *would* can be used for past habits but better is when use use to in a sentence and again refer to that habit use *would*.
+- I used to play football and then I would go home.
 
 ## Future Simple
 **Use:** Future actions and predictions.
