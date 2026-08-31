@@ -6,7 +6,8 @@
 1. **Long time sentences**
 2. **Be, Been, Being**
 3. **Conditional Sentences**
-4. **Active & Passive Voice**
+4. **Sort Of, Kind Of, and Type Of**
+5. **Active & Passive Voice**
 
 
 
@@ -138,3 +139,41 @@ Examples:
 - If I had studied harder, I would have passed the exam. اگر میں زیادہ محنت سے پڑھا ہوتا تو میں امتحان پاس کر لیتا۔
 - If I had lived in London, I would have met you. اگر میں لندن میں رہتا تو میں تم سے ملا ہوتا۔
 - If I had been rich, I would have bought a big house. اگر میں امیر ہوتا تو میں ایک بڑا گھر خرید لیتا۔
+
+
+
+
+
+# Sort Of, Kind Of, and Type Of
+## Sort Of, Kind Of
+This means **partially** or **not completely** or **to some extent** or **in a general way but not exactly**.
+- In everyday conversation, sort of and kind of can usually replace each other.
+In Urdu: **کچھ / کسی حد تک / ایک طرح سے** (Not Fully, Not Exactly, To Some Extent).
+Examples:
+- I’m sort of hungry. (not very hungry, but a little hungry)
+- It was sort of fun. (it was fun, but maybe not completely / to a small extent)
+- I’m sort of tired. (I’m not fully tired, but a little tired)
+- I sort of understand what you mean. (I understand, but maybe not completely / in a general way)
+- He’s sort of smart. (he’s smart, but maybe not extremely / in a general way)
+- This is sort of difficult. (not very difficult, but a little difficult)
+- The movie was sort of boring. (it was boring, but maybe not completely / to a small extent)
+- This is kind of difficult. (this is similar to something difficult, or a type of difficult thing)
+- He’s kind of tall. (he’s similar to a tall person, or a type of tall person)
+- She’s kind of smart. (she’s similar to someone smart, or a type of smart person)
+- It was kind of fun. (it was similar to something fun, or a type of fun thing)
+- I’m kind of tired. (I’m similar to someone tired, or a type of tired person)
+- This is kind of interesting. (this is similar to something interesting, or a type of interesting thing)
+- That’s kind of weird. (that’s similar to something weird, or a type of weird thing)
+Note: In spoken English, “sort of” and “kind of” are often used to mean **“to some extent,” “partially,” “not completely,”** or **“in a general way but not exactly.”**
+
+## Type Of
+This means **a kind or category of something**.
+In Urdu: **قسم کا** (A kind or category of something)
+Examples:
+- What type of movie do you like? (what kind or category of movie do you like?)
+- This is a new type of phone. (this is a new kind or category of phone)
+- There are many types of dogs. (there are many kinds or categories of dogs)
+- What type of food do you prefer? (what kind or category of food do you prefer?)
+- This is a different type of problem. (this is a different kind or category of problem)
+- What type of person is he? (what kind or category of person is he?)
+- This is a good type of exercise. (this is a good kind or category of exercise)
