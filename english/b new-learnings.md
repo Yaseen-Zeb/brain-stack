@@ -6,6 +6,7 @@
 1. **Long time sentences**
 2. **Be, Been, Being**
 3. **Conditional Sentences**
+4. **Active & Passive Voice**
 
 
 
@@ -61,6 +62,7 @@ All are talking about the same basic situation. But each sentence has a differen
 ## Be
 Be is the base form used with modals or future plans.
 Use after helper words like can, will, should, must, might.
+To describe a state/behavior that will/may/should/etc. exist
 Examples:
 - I will be there tomorrow.
 - You should be careful.
@@ -71,6 +73,7 @@ Examples:
 
 ## Been
 Been is the past form used with have/has/had for completed or ongoing past time
+- To describe a state/behavior that has existed before.
 - Use to talk about past experiences or past time connected to now or another past time.
 - Also been is used for present perfect and past perfect sentences in case of adjective and for location.
 - Also been is used in passive voice with perfect tenses.
@@ -83,7 +86,7 @@ Examples:
 
 ## Being
 Being is the -ing form used for current actions or temporary states.
-Use to show what someone is doing right now or a temporary behavior.
+Use to show what someone is doing right now or a temporary behavior/state.
 Examples:
 - She is being very helpful today.
 - Being honest is important.
