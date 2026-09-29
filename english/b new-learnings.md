@@ -9,6 +9,7 @@
 4. **Sort Of, Kind Of, and Type Of**
 5. **Active & Passive Voice**
 6. **The Word Concern**
+7. **Adjective + enough + to**
 
 
 
@@ -202,3 +203,29 @@ Examples:
 - This is none of your concern/business. (this is not your business or interest)
 - It is not my concern/business. (it is not my business or interest)
 - It is a matter of public concern/business. (it is a matter of public business or interest)
+
+
+
+
+
+# Adjective(اسم صفت) + enough + to
+It is used when you want to say that someone or something has the necessary quality or amount or capability to do something.
+## Examples:
+- She is old enough to drive. (she is suitable for driving)
+- He is strong enough to lift the box. (he is capable of lifting the box)
+- The coffee is hot enough to drink. (the coffee is suitable for drinking)
+- They are young enough to play. (they are suitable for playing)
+- It is big enough to fit in the room. (it is suitable for fitting in the room)
+- The water is warm enough to swim in. (the water is suitable for swimming)
+- He is smart enough to solve the problem. (he is capable of solving the problem)
+- The car is fast enough to win the race. (the car is capable of winning the race)
+
+## Examples in Urdu:
+- He is old enough to travel alone. وہ اتنا بوڑھا ہے کہ اکیلا سفر کر سکے۔ 
+- She is intelligent enough to understand the problem. وہ اتنی ذہین ہے کہ وہ مسئلہ سمجھ سکتی ہے۔ 
+- The room is big enough to accommodate all the guests. کمرہ اتنا بڑا ہے کہ تمام مہمانوں کو ٹھہرایا جا سکے۔
+- The coffee is hot enough to drink. کافی پینے کے لیے کافی گرم ہے۔
+- They are young enough to play. وہ کھیلنے کے لیے کافی جوان ہیں۔
+- It is big enough to fit in the room. یہ کمرے میں فٹ ہونے کے لیے کافی بڑا ہے۔
+- The water is warm enough to swim in. پانی تیراکی کے لیے کافی گرم ہے۔
+- The car is fast enough to win the race. کار ریس جیتنے کے لیے کافی تیز ہے۔
