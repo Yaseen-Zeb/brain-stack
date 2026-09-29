@@ -8,6 +8,7 @@
 3. **Conditional Sentences**
 4. **Sort Of, Kind Of, and Type Of**
 5. **Active & Passive Voice**
+6. **The Word Concern**
 
 
 
@@ -177,3 +178,27 @@ Examples:
 - This is a different type of problem. (this is a different kind or category of problem)
 - What type of person is he? (what kind or category of person is he?)
 - This is a good type of exercise. (this is a good kind or category of exercise)
+
+
+
+
+
+# The Word Concern
+The word concern can be used in three main ways:
+1. As a verb (meaning to affect or be important to someone)
+Examples:
+- This news concerns/affects me. (this news affects me or is important to me)
+- The new policy concerns/affects all employees. (the new policy affects all employees or is important to all employees)
+- I hope this doesn't concern/affect you. (I hope this doesn't affect you or isn't important to you)
+
+2. As a noun (meaning worry or anxiety)
+Examples:
+- I have no concern/worry about the decision. (I have no worry or anxiety about the decision)
+- The news caused great concern/worry. (the news caused great worry or anxiety)
+- There is no need for concern/worry. (there is no need for worry or anxiety)
+
+3. As a noun (meaning business or interest)
+Examples:
+- This is none of your concern/business. (this is not your business or interest)
+- It is not my concern/business. (it is not my business or interest)
+- It is a matter of public concern/business. (it is a matter of public business or interest)
